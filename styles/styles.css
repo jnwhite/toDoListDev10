@@ -1,8 +1,11 @@
 /*
 Creator: Jake White
 Date created: 09/30/2019
-Date last modified: 10/02/2019
+Date last modified: 10/03/2019
 */
+
+@import url('https://fonts.googleapis.com/css?family=Sriracha&display=swap');
+
  div.jumbotron, div.fluid-jumbotron {
 	 background-color: white;
 	 color: black;
@@ -11,6 +14,7 @@ Date last modified: 10/02/2019
 	 border-style: none;
 	 margin-bottom: 0;
 	 padding-bottom: 10px;
+	 font-family: 'Sriracha', cursive;
  } 
  
  form {
